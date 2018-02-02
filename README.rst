@@ -58,5 +58,5 @@ Have a bug or a feature request? Please first search for existing and closed iss
 Copyright and License
 ---------------------
 
-- Copyright 2015 `Adam Parsons <https://github.com/aparsons>`_
+- Copyright 2015-2018 `Adam Parsons <https://github.com/aparsons>`_
 - `Licensed under MIT <https://github.com/aparsons/threadfix_api/blob/master/LICENSE.txt>`_.
